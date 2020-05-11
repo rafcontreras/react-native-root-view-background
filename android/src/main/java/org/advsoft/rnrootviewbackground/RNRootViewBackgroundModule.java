@@ -1,5 +1,5 @@
 
-package com.reactlibrary;
+package org.advsoft.rnrootviewbackground;
 
 import android.app.Activity;
 import android.view.View;
