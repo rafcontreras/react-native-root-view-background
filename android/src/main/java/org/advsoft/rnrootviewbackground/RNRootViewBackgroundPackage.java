@@ -1,5 +1,5 @@
 
-package org.advsoft.rnrootviewbackground;
+package com.rnrootviewbackground;
 
 import java.util.Arrays;
 import java.util.Collections;
